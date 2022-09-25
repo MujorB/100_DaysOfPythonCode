@@ -31,4 +31,4 @@ elif bmi < 35:
 else:
     result = clin_obes
 
-print(f"Your BMI is {bmi}, you {result}.")
+print(f"Your BMI is {bmi}, you {result}")
