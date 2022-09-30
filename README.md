@@ -22,11 +22,10 @@
 
 
 ## Resource
-List of Resource Used so far:  
-[Coding Room sign up](https://app.codingrooms.com/), [Join coding room sessions](https://app.codingrooms.com/management/courses/join-by-code/4J6slZE6
-).  
-[Ask python.org](https://www.askpython.com/).  
-[Thonny](https://thonny.org/) A python debugger PC program  
+List of Resources Used so far:  
+- [Coding Room sign up](https://app.codingrooms.com/), [Join coding room sessions](https://app.codingrooms.com/management/courses/join-by-code/4J6slZE6).  
+- [Ask python.org](https://www.askpython.com/).  
+- [Thonny](https://thonny.org/) A python debugger PC program  
 
 
 ## Project Understanding Resource
