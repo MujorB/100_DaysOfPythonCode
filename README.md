@@ -3,7 +3,7 @@
 |   :fire::fire::fire:  Days    :fire::fire::fire:            |       Projects/Tasks             |                    Descriptions                            |
 | :---------------- | :------------------------------- | :--------------------------------------------------------- |
 | [Day :zero::zero::one:](Day1of100)|[Python Basics](Day1of100/data_type.py)|                                        |
-|        | [Print Functions](Day1of100/print.py)  |                                                            |
+|        | [`Print Functions`](Day1of100/print.py)  |                                                            |
 |       |[Band Name Generator](Day1of100/bandname_generator.py)|                                                                   |
 | [Day :zero::zero::two:](Day2of100/) | [Python Operations](Day2of100/operations.py) |                                              |
 |       | [Tip Calculator](Day2of100/tip_calculator.py) |                                                           |
