@@ -1,6 +1,6 @@
 # `100 Days of Python Code by Angela Yu`
 
-|   :fire::fire::fire:Days:fire::fire::fire:            |       Projects/Tasks             |                    Descriptions                            |
+|   :fire::fire::fire:  Days    :fire::fire::fire:            |       Projects/Tasks             |                    Descriptions                            |
 | :---------------- | :------------------------------- | :--------------------------------------------------------- |
 | [Day :zero::zero::one:](Day1of100)|[Python Basics](Day1of100/data_type.py)|                                        |
 |        | [Print Functions](Day1of100/print.py)  |                                                            |
