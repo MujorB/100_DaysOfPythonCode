@@ -2,7 +2,7 @@
 
 |   Days            |       Projects/Tasks             |                    Descriptions                            |
 | :---------------- | :------------------------------- | :--------------------------------------------------------- |
-| [Day :zero::zero::one: of :one::zero::zero:](Day1of100)|[Python Basics](Day1of100/data_type.py)|                                        |
+| [Day :zero::zero::one:](Day1of100)|[Python Basics](Day1of100/data_type.py)|                                        |
 |        | [Print Functions](Day1of100/print.py)  |                                                            |
 |       |[Band Name Generator](Day1of100/bandname_generator.py)|                                                                   |
 | [Day 2 of 100](Day2of100/) | [Python Operations](Day2of100/operations.py) |                                              |
