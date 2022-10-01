@@ -2,7 +2,7 @@
 
 |   Days            |       Projects/Tasks             |                    Descriptions                            |
 | :---------------- | :------------------------------- | :--------------------------------------------------------- |
-| [Day 1 of 100](Day1of100)|[Python Basics](Day1of100/data_type.py)|                                        |
+| [Day :zero::zero::one: of :one::zero::zero:](Day1of100)|[Python Basics](Day1of100/data_type.py)|                                        |
 |        | [Print Functions](Day1of100/print.py)  |                                                            |
 |       |[Band Name Generator](Day1of100/bandname_generator.py)|                                                                   |
 | [Day 2 of 100](Day2of100/) | [Python Operations](Day2of100/operations.py) |                                              |
@@ -48,7 +48,7 @@
 > - [Thonny](https://thonny.org/), a python debugger PC program. 
 > - [Reeborg's World](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Alone&url=worlds%2Ftutorial_en%2Falone.json
 ), a python fun training game.  
- 
+
 
 
 ## Project Understanding Resource
