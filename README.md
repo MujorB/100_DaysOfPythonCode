@@ -2,14 +2,14 @@
 
 |   :fire::fire::fire:  Days    :fire::fire::fire:            |       Projects/Tasks             |                    Descriptions                            |
 | :---------------- | :------------------------------- | :--------------------------------------------------------- |
-| [Day :zero::zero::one:](Day1of100)|[Python Basics](Day1of100/data_type.py)|                                        |
-|        | [`Print Functions`](Day1of100/print.py)  |                                                            |
-|       |[Band Name Generator](Day1of100/bandname_generator.py)|                                                                   |
-| [Day :zero::zero::two:](Day2of100/) | [Python Operations](Day2of100/operations.py) |                                              |
-|       | [Tip Calculator](Day2of100/tip_calculator.py) |                                                           |
+| [Day :zero::zero::one:](Day1of100)|[`Python Basics`](Day1of100/data_type.py)|                                        |
+|        | [`Print Functions`](Day1of100/print.py)  |                                                         |
+|       |[`Band Name Generator`](Day1of100/bandname_generator.py)|                                                                   |
+| [Day :zero::zero::two:](Day2of100/) | [`Python Operations`](Day2of100/operations.py) |                                              |
+|       | [`Tip Calculator`](Day2of100/tip_calculator.py) |                                                           |
 ||||
 ||||
-| [Day :zero::zero::five:](Day5of100/)  |  [Python Loop](Day5of100/loops.py)  |   How the python loop works   |
+| [Day :zero::zero::five:](Day5of100/)  |  [`Python Loop`](Day5of100/loops.py)  |   How the python loop works   |
 |   | [Counting Even Numbers](Day5of100/count_evens.py)  |  Counts and computes the sum of all numbers from 1 to 100   |
 |       | [Average Heights](Day5of100/avrg_heights.py)  |  A program to compute the average heights of students |
 |       |   [Higest Score](Day5of100/highest_score.py)  |  Gets the highest score in a list of scores|
