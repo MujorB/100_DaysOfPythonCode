@@ -15,7 +15,7 @@
 |       |   [Higest Score](Day5of100/highest_score.py)  |  Gets the highest score in a list of scores|
 |       |   [Fizz - Buzz](Day5of100/fizzbuzz.py)| The children fizzbuzz game coding implementation  |
 |       | [Password Generator](Day5of100/py_password_generator.py)  | A program that generates random anti hacker's :smile: password based on user's specificity|
-| [Day :zero::zero::six:](Day6of100/)  |  [Functions](Day6of100/functions.py)   |  How functions works and created in python  |
+| [Day :zero::zero::six:](Day6of100/)  |  [Functions](Day6of100/functions.py)   |  How functions works and are created in python  |
 ||||
 ||||
 ||||
@@ -46,7 +46,7 @@
 > - [Ask python.org](https://www.askpython.com/).  
 > - [Thonny](https://thonny.org/), a python debugger PC program. 
 > - [Reeborg's World](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Alone&url=worlds%2Ftutorial_en%2Falone.json
-), a python fun training game.  
+) :robot:, a python fun training game.  
 
 
 
