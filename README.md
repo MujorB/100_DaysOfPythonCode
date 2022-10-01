@@ -2,12 +2,12 @@
 
 |   Days            |       Projects/Tasks             |                    Descriptions                            |
 | :---------------- | :------------------------------- | :--------------------------------------------------------- |
+|:fire::fire::fire::fire::fire:|:fire::fire::fire::fire:|:fire::fire::fire::fire::fire:|
 | [Day:zero::zero::one:](Day1of100)|[Python Basics](Day1of100/data_type.py)|                                        |
 |        | [Print Functions](Day1of100/print.py)  |                                                            |
 |       |[Band Name Generator](Day1of100/bandname_generator.py)|                                                                   |
 | [Day 2 of 100](Day2of100/) | [Python Operations](Day2of100/operations.py) |                                              |
 |       | [Tip Calculator](Day2of100/tip_calculator.py) |                                                           |
-||||
 ||||
 ||||
 | [Day 5 of 100](Day5of100/)  |  [Python Loop](Day5of100/loops.py)  |   How the python loop works   |
