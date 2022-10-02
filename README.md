@@ -45,9 +45,15 @@
 > - [Coding Room sign up](https://app.codingrooms.com/), [Join coding room sessions](https://app.codingrooms.com/management/courses/join-by-code/4J6slZE6).  
 > - [Ask python.org](https://www.askpython.com/).  
 > - [Thonny](https://thonny.org/), a python debugger PC program. 
-> - [Reeborg's World](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Alone&url=worlds%2Ftutorial_en%2Falone.json) :robot:, a python fun training game.  
-> [Reeborg's](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Hurdle%201&url=worlds%2Ftutorial_en%2Fhurdle1.json) :robot:, Hurdle challenge
- 
+> - [Reeborg's World](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Alone&url=worlds%2Ftutorial_en%2Falone.json) :robot:, a python fun training game, Hurdle one.  
+> - [Reeborg's](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Hurdle%201&url=worlds%2Ftutorial_en%2Fhurdle1.json) :robot:, Hurdle two challenge.  
+> - [Reeborg's World](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Hurdle%202&url=worlds%2Ftutorial_en%2Fhurdle2.json) :robot:, Hurdle three challenge.  
+> - [Reeborg's World](http://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Hurdle%204&url=worlds%2Ftutorial_en%2Fhurdle4.json
+) :robot:, Hurdle four challenge.  
+
+# image.png
+:arrow_up::arrow_up: *Above is the code used to solve hurdle four* :muscle::muscle::smile:
+
 
 
 
