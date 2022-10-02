@@ -18,14 +18,14 @@
 |                   |                           |                                       |
 ||||
 | [`Day` :zero::zero::five:](Day5of100/)  |  [`Python Loop`](Day5of100/loops.py)  |   How the python loop works   |
-|   | [Counting Even Numbers](Day5of100/count_evens.py)  |  Counts and computes the sum of all numbers from 1 to 100   |
-|       | [Average Heights](Day5of100/avrg_heights.py)  |  A program to compute the average heights of students |
-|       |   [Higest Score](Day5of100/highest_score.py)  |  Gets the highest score in a list of scores|
-|       |   [Fizz - Buzz](Day5of100/fizzbuzz.py)| The children fizzbuzz game coding implementation  |
-|       | [Password Generator](Day5of100/py_password_generator.py)  | A program that generates random anti hacker's :smile: password based on user's specificity|
+|   | [`Counting Even Numbers`](Day5of100/count_evens.py)  |  Counts and computes the sum of all numbers from 1 to 100   |
+|       | [`Average Heights`](Day5of100/avrg_heights.py)  |  A program to compute the average heights of students |
+|       |   [`Higest Score`](Day5of100/highest_score.py)  |  Gets the highest score in a list of scores|
+|       |   [`Fizz - Buzz`](Day5of100/fizzbuzz.py)| The children fizzbuzz game coding implementation  |
+|       | [`Password Generator`](Day5of100/py_password_generator.py)  | A program that generates random anti hacker's :smile: password based on user's specificity|
 |                   |                           |                                |
-| [`Day` :zero::zero::six:](Day6of100/)  |  [Functions](Day6of100/functions.py)   |  How functions works and are created in python  |
-|               |   [Reeborg's World](Day6of100/reeborgs_world.md)    |     An interactive python challenge game    |
+| [`Day` :zero::zero::six:](Day6of100/)  |  [`Functions`](Day6of100/functions.py)   |  How functions works and are created in python  |
+|               |   [`Reeborg's World`](Day6of100/reeborgs_world.md)    |     An interactive python challenge game    |
 |                   |                           |                               |
 | [`Day` :zero::zero::seven:](Day7of100/)  |                |               |
 ||||
