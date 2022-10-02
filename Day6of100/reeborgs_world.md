@@ -16,5 +16,6 @@
 >     - The Maze
 >     - Its all about writing an algorithm that would make the robot navigate its way to the destination automatically
 > 
-> image.png
+> ![image](https://user-images.githubusercontent.com/95404943/193449689-c4c1483b-6757-4e74-847c-30f560df8496.png)  
 > :arrow_up::arrow_up: *The above image shows how i solved the MAZE hurdle* :muscle::smile::muscle:  
+> 
