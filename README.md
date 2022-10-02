@@ -50,9 +50,8 @@
 > - [Reeborg's World](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Hurdle%202&url=worlds%2Ftutorial_en%2Fhurdle2.json) :robot:, Hurdle three challenge.  
 > - [Reeborg's World](http://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Hurdle%204&url=worlds%2Ftutorial_en%2Fhurdle4.json
 ) :robot:, Hurdle four challenge.  
-
-# image.png
-:arrow_up::arrow_up: *Above is the code used to solve hurdle four* :muscle::muscle::smile:
+![image](https://user-images.githubusercontent.com/95404943/193444580-4fdc035c-e7f7-4a3d-9523-137b9c733b8b.png)
+:arrow_up::arrow_up: *Above is the code used to solve hurdle four* :muscle::muscle::smile:  
 
 
 
