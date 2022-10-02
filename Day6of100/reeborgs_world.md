@@ -19,6 +19,6 @@
 > ![image](https://user-images.githubusercontent.com/95404943/193449689-c4c1483b-6757-4e74-847c-30f560df8496.png)  
 > 🔼🔼 *The above image unfortunately works but do not pass all test cases  
 > 
-> ![image](https://user-images.githubusercontent.com/95404943/193451426-012926ca-5d69-41ef-8f5d-a2a916c2c7f4.png)  
+> ![image](https://user-images.githubusercontent.com/95404943/193451538-1d6aa521-ff75-4734-bb51-be1ec34ba717.png)  
 > :arrow_up::arrow_up: *The above image shows how i solved the MAZE hurdle and all test cases handled* :muscle::smile::muscle:  
 > 
