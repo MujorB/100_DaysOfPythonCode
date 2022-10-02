@@ -5,9 +5,17 @@
 | [`Day` :zero::zero::one:](Day1of100)|[`Python Basics`](Day1of100/data_type.py)|                                        |
 |        | [`Print Functions`](Day1of100/print.py)  |                                                         |
 |       |[`Band Name Generator`](Day1of100/bandname_generator.py)|                                                                   |
+|                   |                       |                                       |
 | [`Day` :zero::zero::two:](Day2of100/) | [`Python Operations`](Day2of100/operations.py) |                                              |
 |       | [`Tip Calculator`](Day2of100/tip_calculator.py) |                                                           |
+|                       |                               |                               |
 ||||
+||||
+| [`Day` :zero::zero::three:](Day3of100/)  |||
+|                       |                       |                                       |
+||||
+| [`Day` :zero::zero::four:](Day4of100/)  |||
+|                   |                           |                                       |
 ||||
 | [`Day` :zero::zero::five:](Day5of100/)  |  [`Python Loop`](Day5of100/loops.py)  |   How the python loop works   |
 |   | [Counting Even Numbers](Day5of100/count_evens.py)  |  Counts and computes the sum of all numbers from 1 to 100   |
@@ -15,9 +23,11 @@
 |       |   [Higest Score](Day5of100/highest_score.py)  |  Gets the highest score in a list of scores|
 |       |   [Fizz - Buzz](Day5of100/fizzbuzz.py)| The children fizzbuzz game coding implementation  |
 |       | [Password Generator](Day5of100/py_password_generator.py)  | A program that generates random anti hacker's :smile: password based on user's specificity|
+|                   |                           |                                |
 | [`Day` :zero::zero::six:](Day6of100/)  |  [Functions](Day6of100/functions.py)   |  How functions works and are created in python  |
-||||
-||||
+|               |   [Reeborg's World](Day6of100/reeborgs_world.md)    |     An interactive python challenge game    |
+|                   |                           |                               |
+| [`Day` :zero::zero::seven:](Day7of100/)  |                |               |
 ||||
 ||||
 ||||
@@ -53,12 +63,7 @@
 
 
 > ## Project Understanding Resource
-> - [Reeborg's World](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Alone&url=worlds%2Ftutorial_en%2Falone.json) :robot:, a python fun training game, Hurdle one.  
-> - [Reeborg's](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Hurdle%201&url=worlds%2Ftutorial_en%2Fhurdle1.json) :robot:, Hurdle two challenge.  
-> - [Reeborg's World](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Hurdle%202&url=worlds%2Ftutorial_en%2Fhurdle2.json) :robot:, Hurdle three challenge.  
-> - [Reeborg's World](http://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Hurdle%204&url=worlds%2Ftutorial_en%2Fhurdle4.json) :robot:, Hurdle four challenge.  
-> ![image](https://user-images.githubusercontent.com/95404943/193444580-4fdc035c-e7f7-4a3d-9523-137b9c733b8b.png)
-> :arrow_up::arrow_up: *Above was how i solved hurdle four* :muscle::smile::muscle:  
+> - [Reeborg's World](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Alone&url=worlds%2Ftutorial_en%2Falone.json) :robot:, a python fun training game. *check it out*  
 > 
 
 
