@@ -54,8 +54,9 @@
 > List of Resources Used so far:  
 > - [Coding Room sign up](https://app.codingrooms.com/), [Join coding room sessions](https://app.codingrooms.com/management/courses/join-by-code/4J6slZE6).  
 > - [Ask python.org](https://www.askpython.com/).  
-> - [Thonny](https://thonny.org/), a python debugger PC program. 
-
+> - [Thonny](https://thonny.org/), a python debugger PC program.  
+> - [Google python class.](https://developers.google.com/edu/python/)  
+> 
 
 
 
