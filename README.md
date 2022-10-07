@@ -28,10 +28,10 @@
 |               |   [`Reeborg's World`](Day6of100/reeborgs_world.md)    |     An interactive python challenge game    |
 |                   |                           |                               |
 | [`Day` :zero::zero::seven:](Day7of100/)  |    [`Hangman Game`](Day7of100/)            | The terminal variation of the famous hangman game  |
-|               |    [Hangman_v1](Day7of100/hangman_one.py)       |                                          |
-|               |   [Hangman_v2](Day7of100/hangman_two.py)        |                                          |
-|               |  [Hangman_v3](Day7of100/hangman_three.py)       |                                          |
-|               |   [Hangman_v4](Day7of100/hangman_four.py)       |                                          |
+|               |    [`Hangman_v1`](Day7of100/hangman_one.py)       |                                          |
+|               |   [`Hangman_v2`](Day7of100/hangman_two.py)        |                                          |
+|               |  [`Hangman_v3`](Day7of100/hangman_three.py)       |                                          |
+|               |   [`Hangman_v4`](Day7of100/hangman_four.py)       |                                          |
 ||||
 ||||
 ||||
