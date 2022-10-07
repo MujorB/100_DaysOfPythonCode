@@ -32,9 +32,9 @@
 |               |   [`Hangman_v2`](Day7of100/hangman_two.py)        |                                          |
 |               |  [`Hangman_v3`](Day7of100/hangman_three.py)       |                                          |
 |               |   [`Hangman_v4`](Day7of100/hangman_four.py)       |                                          |
-||||
-||||
-||||
+|               |   [`Hangman_v5`](Day7of100/hangman_five.py)       |                                          |
+|               |                                                   |                                          |     
+| [`Day` :zero::zero::eight:](Day8of100/)  | [      ]()    |          |
 ||||
 ||||
 ||||
