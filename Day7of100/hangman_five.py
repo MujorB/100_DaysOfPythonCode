@@ -27,17 +27,20 @@ while not end_of_game:
     guess = input("Guess a letter: ").lower()
 
     #TODO-4: - If the user has entered a letter they've already guessed, print the letter and let them know.
-
     #Check guessed letter
+    if guess in display:
+            print(f"You should see the letter {guess} is in place already, please try a different letter.")
+
     for position in range(word_length):
         letter = chosen_word[position]
-        print(f"Current position: {position}\n Current letter: {letter}\n Guessed letter: {guess}")
+        # print(f"Current position: {position}\n Current letter: {letter}\n Guessed letter: {guess}")
         if letter == guess:
             display[position] = letter
 
     #Check if user is wrong.
     if guess not in chosen_word:
         #TODO-5: - If the letter is not in the chosen_word, print out the letter and let them know it's not in the word.
+        print(f"Oops! the letter {guess} is not in our secret word, careful so you don't hang your man")
         lives -= 1
         if lives == 0:
             end_of_game = True
@@ -52,4 +55,5 @@ while not end_of_game:
         print("You win.")
 
     #TODO-2: - Import the stages from hangman_art.py and make this error go away.
-    print(stages[lives])
+    # print(stages[lives])
+    print(hangman_art.stages[lives])
