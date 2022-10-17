@@ -32,9 +32,15 @@
 |               |   [`Hangman_v2`](Day7of100/hangman_two.py)        |                                          |
 |               |  [`Hangman_v3`](Day7of100/hangman_three.py)       |                                          |
 |               |   [`Hangman_v4`](Day7of100/hangman_four.py)       |                                          |
-|               |   [`Hangman_v5`](Day7of100/hangman_five.py)       |                                          |
+|               |   [`Hangman_Finalle`](Day7of100/hangman_five.py)       |                                          |
 |               |                                                   |                                          |     
-| [`Day` :zero::zero::eight:](Day8of100/)  | [      ]()    |          |
+| [`Day` :zero::zero::eight:](Day8of100/)  |[Python Functions](Day8of100/functions.py)| Creating and utilizing functions and keyword argument functions     |
+|       | [Area calculator](Day8of100/area_calculator.py)  | A simple program that helps calculate surface area after prompting users for values |
+|       | [Prime numbers](Day8of100/prime_numbers.py)  |  A program that prompts user for a number and helps check if it is a prime number  |
+|       | [Ceaser cypher part one](Day8of100/ceaser_cypher.py) | A simple implementation of a message encrypting program |
+|       | [Ceaser cypher part two](Day8of100/ceaser_cypher_2.py)  ||
+|       | [Ceaser cypher part three](Day8of100/ceaser_cypher_3.py)  ||
+|       | [Ceaser cypher final](Day8of100/ceaser_de_cypher_finale.py)  ||
 ||||
 ||||
 ||||
@@ -42,12 +48,7 @@
 ||||
 ||||
 ||||
-||||
-||||
-||||
-||||
-||||
-||||
+
 
 
 > ## Resource
@@ -57,9 +58,6 @@
 > - [Thonny](https://thonny.org/), a python debugger PC program.  
 > - [Google python class.](https://developers.google.com/edu/python/)  
 > 
-
-
-
 
 
 
