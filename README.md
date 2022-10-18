@@ -43,7 +43,7 @@
 |       | [`Ceaser cypher v_3`](Day8of100/ceaser_cypher_3.py)  ||
 |       | [`Ceaser cypher finalle`](Day8of100/ceaser_de_cypher_finale.py)  ||
 ||||
-|[`Day :zero::zero::nine:`](Day9of100) | [Dictionary](Day9of100/dictionary.py) |Creating and utilizing dictionary in python and all operations performed on dictionary |
+|[`Day` :zero::zero::nine:](Day9of100) | [`Dictionary`](Day9of100/dictionary.py) |Creating and utilizing dictionary in python and all operations performed on dictionary |
 |       |[`Grading Program`](Day9of100/grading_program.py)  |A program that grades student scores stored in dictionary|
 ||||
 ||||
