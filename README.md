@@ -2,19 +2,20 @@
 
 |   :fire::fire::fire:  `Days`    :fire::fire::fire:            |       `Projects/Tasks`             |                    Descriptions                            |
 | :--------------------------------------- | :------------------------------- | :--------------------------------------------------------- |
-| [`Day` :zero::zero::one:](Day1of100)|[`Python Basics`](Day1of100/data_type.py)|                                        |
-|        | [`Print Functions`](Day1of100/print.py)  |                                                         |
-|       |[`Band Name Generator`](Day1of100/bandname_generator.py)|                                                                   |
-|                   |                       |                                       |
-| [`Day` :zero::zero::two:](Day2of100/) | [`Python Operations`](Day2of100/operations.py) |                                              |
-|       | [`Tip Calculator`](Day2of100/tip_calculator.py) |                                                           |
-|                       |                               |                               |
+| [`Day` :zero::zero::one:](Day1of100)|[`Python Basics`](Day1of100/data_type.py)|       |
+|          | [`Print Functions`](Day1of100/print.py)  |            |
+|           |[`Band Name Generator`](Day1of100/bandname_generator.py)|      |
+||||
+| [`Day` :zero::zero::two:](Day2of100/) | [`Python Operations`](Day2of100/operations.py)|         |
+|       | [`Tip Calculator`](Day2of100/tip_calculator.py)|                 |
+|       |                               |                               |
 ||||
 ||||
-| [`Day` :zero::zero::three:](Day3of100/)  |||
-|                       |                       |                                       |
 ||||
-| [`Day` :zero::zero::four:](Day4of100/)  |||
+| [`Day` :zero::zero::three:](Day3of100/)  |                        |               |
+|                                          |                        |               |
+||||
+| [`Day` :zero::zero::four:](Day4of100/)   |                         |               |
 |                   |                           |                                       |
 ||||
 | [`Day` :zero::zero::five:](Day5of100/)  |  [`Python Loop`](Day5of100/loops.py)  |   How the python loop works   |
@@ -41,6 +42,9 @@
 |       | [`Ceaser cypher v_2`](Day8of100/ceaser_cypher_2.py)  ||
 |       | [`Ceaser cypher v_3`](Day8of100/ceaser_cypher_3.py)  ||
 |       | [`Ceaser cypher finalle`](Day8of100/ceaser_de_cypher_finale.py)  ||
+||||
+|[`Day :zero::zero::nine:`](Day9of100) | [Dictionary](Day9of100/dictionary.py) |Creating and utilizing dictionary in python and all operations performed on dictionary |
+|       |[`Grading Program`](Day9of100/grading_program.py)  |A program that grades student scores stored in dictionary|
 ||||
 ||||
 ||||
