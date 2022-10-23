@@ -41,14 +41,14 @@
 |       | [`Ceaser cypher v_1`](Day8of100/ceaser_cypher.py) | A simple implementation of a message encrypting program |
 |       | [`Ceaser cypher v_2`](Day8of100/ceaser_cypher_2.py)  ||
 |       | [`Ceaser cypher v_3`](Day8of100/ceaser_cypher_3.py)  ||
-|       | [`Ceaser cypher finalle`](Day8of100/ceaser_de_cypher_finale.py)  |  Completed version of the encryption proram  |
+|       | [`Ceaser cypher finalle`](Day8of100/ceaser_de_cypher_finale.py)  |  Completed version of the encryption program  |
 ||||
-|[`Day` :zero::zero::nine:](Day9of100) | [Python Dictionary](Day9of100/dictionary.py) |Creating and utilizing dictionary in python and all operations performed on a dictionary |
+|[`Day` :zero::zero::nine:](Day9of100) | [`Python Dictionary`](Day9of100/dictionary.py) |Creating and utilizing dictionary in python and all operations performed on a dictionary |
 |       |[`Grading Program`](Day9of100/grading_program.py)  |A program that grades student scores stored in dictionary|
 |       |[`Travel log`](Day9of100/travel_log.py)  | A program that help user log all places visited, number of times visited during a travel trip|
-|   | [Highest Bidder](Day9of100/highest_bidder.py)|  Program that logs the names and bids of bidders at an auction and declares the highest bidder  |
+|   | [`Highest Bidder`](Day9of100/highest_bidder.py)|  Program that logs the names and bids of bidders at an auction and declares the highest bidder  |
 ||||
-| [`Day :zero::ten::zero:`](Day10of100/ )  |   ||
+| [`Day` :zero::ten::zero:](Day10of100/ )  |   ||
 ||||
 ||||
 ||||
