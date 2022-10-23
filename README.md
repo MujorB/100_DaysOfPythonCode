@@ -48,7 +48,7 @@
 |       |[`Travel log`](Day9of100/travel_log.py)  | A program that help user log all places visited, number of times visited during a travel trip|
 |   | [`Highest Bidder`](Day9of100/highest_bidder.py)|  Program that logs the names and bids of bidders at an auction and declares the highest bidder  |
 ||||
-| [`Day` :zero::ten::zero:](Day10of100/ )  |   ||
+| [`Day` :zero::one::zero:](Day10of100/ )  |   ||
 ||||
 ||||
 ||||
