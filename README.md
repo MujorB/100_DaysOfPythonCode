@@ -48,11 +48,11 @@
 |       |[`Travel log`](Day9of100/travel_log.py)  | A program that help user log all places visited, number of times visited during a travel trip|
 |   | [`Highest Bidder`](Day9of100/highest_bidder.py)|  Program that logs the names and bids of bidders at an auction and declares the highest bidder  |
 ||||
-| [`Day` :zero::one::zero:](Day10of100/ )  |   ||
+| [`Day` :zero::one::zero:](Day10of100/ )  | [`Python Function cont.`](Day10_of_100/function_cont.py )  | Implementation of function that returns value, docstrings in functions. |
+|   | [`Days_in_mnth`](Day10_of_100/days_in_mth.py)  |   |
+|   | [`Calculator App`](Day10_of_100/calculator.py)| Implementation of basic calculator app using python  |
 ||||
-||||
-||||
-||||
+|  | [`Day` :zero::one::one:](Day11_of_100/) |   |
 ||||
 ||||
 ||||
