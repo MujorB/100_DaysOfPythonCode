@@ -54,7 +54,7 @@
 ||||
 |  [**`Day`** :zero::one::one:](Day11_of_100/) | [`BlackJack`](Day11_of_100/black_jack.py) | The very first capstone project, building the classic blackjack game. |
 |   |   ||
-|   | [**`Day`** :zero::one::two:]()  |  []()   |
+| [**`Day`** :zero::one::two:]()  |  []()|   |
 ||||
 ||||
 ||||
