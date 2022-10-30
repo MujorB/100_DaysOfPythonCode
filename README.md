@@ -52,9 +52,9 @@
 |   | [`Days_in_mnth`](Day10_of_100/days_in_mth.py)  |   |
 |   | [`Calculator App`](Day10_of_100/calculator.py)| Implementation of basic calculator app using python  |
 ||||
-|  [**`Day`** :zero::one::one:](Day11_of_100/) | |   |
-||||
-||||
+|  [**`Day`** :zero::one::one:](Day11_of_100/) | [`BlackJack`](Day11_of_100/black_jack.py) | The very first capstone project, building the classic blackjack game. |
+|   |   ||
+|   | [**`Day`** :zero::one::two:]()  |  []()   |
 ||||
 ||||
 ||||
