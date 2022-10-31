@@ -71,9 +71,9 @@
 > - [Python tutor](https://pythontutor.com), a web browser python debugger also used for javascript, c, c++ and java.  
 > - **Some python command line tools:**  
 >   - `yapf` - yet another python formatter  
->   - `pylint` - python linter to conform codes to standards  
->   - `black`  - This format you codes and introduces changes to code  
->   - `flake8`  - A python linter too.
+>   - **`pylint`** - python linter to conform codes to standards  
+>   - **black**  - This format you codes and introduces changes to code  
+>   - **`flake8`**  - A python linter too.
 >   - `pytest` - If python test files are available helps test python codes.  
 >  
 > Installations ` python3 -m pip install black flake8 ipython mypy pylint pytest yapf` includes some other program.  
