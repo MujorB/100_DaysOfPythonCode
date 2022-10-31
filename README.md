@@ -72,7 +72,7 @@
 > - **Some python command line tools:**  
 >   - `yapf` - yet another python formatter  
 >   - **`pylint`** - python linter to conform codes to standards  
->   - **black**  - This format you codes and introduces changes to code  
+>   - **`black`**  - This format you codes and introduces changes to code  
 >   - **`flake8`**  - A python linter too.
 >   - `pytest` - If python test files are available helps test python codes.  
 >  
