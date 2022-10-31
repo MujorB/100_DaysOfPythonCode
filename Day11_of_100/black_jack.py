@@ -8,7 +8,6 @@ Project:    Courtesy of Day 11 capstone project.
 import random
 import art
 
-
 print(art.logo)
 cards = [11, 2, 3, 4, 5, 6, 7, 8, 9, 10, 10, 10, 10]
 
@@ -75,16 +74,12 @@ def wantMoreCards():
     anotherCard = True
     user_fst_cardlist_1 = user_fst_cardlist
     while anotherCard:
-        want_moreCards = input(
-            "Type 'y' to get another card, \
-type 'n' to pass: "
-        )
+        want_moreCards = input("Type 'y' to get another card, \
+type 'n' to pass: ")
         if want_moreCards == "y":
             user_fst_cardlist_1 = user_wants_another_card(user_fst_cardlist)
-            print(
-                f"    Your cards: {user_fst_cardlist_1}, current score: \
-{sum_cardlist(user_fst_cardlist_1)}"
-            )
+            print(f"    Your cards: {user_fst_cardlist_1}, current score: \
+{sum_cardlist(user_fst_cardlist_1)}")
             print(f"    Computer's first card: {comps_firstcard}\n")
         else:
             anotherCard = False
@@ -100,10 +95,8 @@ while play_blackjack_again:
 
     comps_firstcard = a
 
-    print(
-        f"    Your cards: {user_fst_cardlist}, current score: \
-{user_cardlist_sums}"
-    )
+    print(f"    Your cards: {user_fst_cardlist}, current score: \
+{user_cardlist_sums}")
     print(f"    Computer's first card: {comps_firstcard}\n")
 
     comp_fst_cardlist = [comps_firstcard]
@@ -117,21 +110,15 @@ while play_blackjack_again:
 
     scores_check = is_blackjack(comp_cardlist_sums_2, user_cardlist_sums_2)
 
-    print(
-        f"    Your final hand: {more_usercards}, final score: \
-{user_cardlist_sums_2}"
-    )
-    print(
-        f"    Computer's final hand: {comp_fst_cardlist_2}, final score: \
-{comp_cardlist_sums_2} "
-    )
+    print(f"    Your final hand: {more_usercards}, final score: \
+{user_cardlist_sums_2}")
+    print(f"    Computer's final hand: {comp_fst_cardlist_2}, final score: \
+{comp_cardlist_sums_2} ")
     print(scores_check)
     print("\n")
 
-    wanna_play_again = input(
-        "Do you want to play a game of Blackjack? \
-Type 'y' or 'n': "
-    )
+    wanna_play_again = input("Do you want to play a game of Blackjack? \
+Type 'y' or 'n': ")
     print("\n" * 30, f"{art.logo}\n\n")
     a = draw()
     if wanna_play_again == "n":
