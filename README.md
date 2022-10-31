@@ -70,11 +70,11 @@
 > - [Google python class.](https://developers.google.com/edu/python/)  
 > - [Python tutor](https://pythontutor.com), a web browser python debugger also used for javascript, c, c++ and java.  
 > - **Some python command line tools:**  
->   - `yapf` - yet another python formatter  
->   - **`pylint`** - python linter to conform codes to standards  
->   - **`black`**  - This format you codes and introduces changes to code  
->   - **`flake8`**  - A python linter too.
->   - `pytest` - If python test files are available helps test python codes.  
+>   - `yapf` - yet another python formatter: `yapf -i hello.py`  
+>   - **`pylint`** - python linter to conform codes to standards: `pylint hello.py`  
+>   - **`black`**  - This format you codes and introduces changes to code: `black hello.py`
+>   - **`flake8`**  - A python linter too: `flake8 hello.py`
+>   - `pytest` - If python test files are available helps test python codes: `pytest -xv test.py`  
 >  
 > Installations ` python3 -m pip install black flake8 ipython mypy pylint pytest yapf` includes some other program.  
 
