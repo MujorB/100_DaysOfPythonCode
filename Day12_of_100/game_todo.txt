@@ -1,0 +1,55 @@
+---------------- Number Guessing Game Todo ---------------------------
+######################################################################
+SelfNote: Bright please note that each #todo task does not necessarily means it is done linearly,
+          some can be left to be implemented later.
+
+#1. Display the welcome message: **checked**
+        display game_art_logo
+        display message_1 = "Welcome to the Number Guessing Game!!"
+
+
+#2. Game number guessing implementation:  **checked**
+        display message_2 = "I am thinking of a number between 1 and 100"
+        implementation:
+            >> Choosing and storing a random number between 1 and 100
+            >> random_number = any number between 1 and 100
+
+
+#3. Prompting player for game difficulty:  **checked**
+        prompt game_level = "Choose a difficulty. Type 'easy' or 'hard': "
+        implementation:
+            if game_level == easy
+                >> count_down = 5
+                >> message_3 = "You have {count_down} attempts remaining to guess the number."
+            while
+            if game_level == hard 
+                >> count_down = 10
+                >> display message_3 = "You have {count_down} attempts remaining to guess the number."
+
+
+#4. Prompting player for "Guess" and checking if "Guess" is equal to random_number?:
+        prompt player_guess = "Make a guess: "
+            if player_guess is greater than random_number
+                >> display message_4 = "Too high.{newline}Guess again."
+                >> reduce the count_down score by one
+                >> display message_3
+            else if player_guess is less than random_number
+                >> display message_5 = "Too low.{newline}Guess again."
+                >> still reduce the count_down score by one
+                >> display message_3
+            else if player_guess is equal to random_number
+                >> display message_6 = "You Won :) , the actual answer was {random_number} :)"
+                >> #end_game
+
+        
+#5. Terminating the game:
+        Reasons for game termination(#end_game) include:
+            - if player wins i.e player_guess is equal to random_number 
+            - if player count_down is equal to zero. 
+        .b if player count_down is equal to zero.
+            >> display message_7 = "Sorry all attempts has been used, You Lose :("
+            >> #end_game
+
+
+#6. Asking user for game replay:
+        prompt play_again = "Would you love to play Number Guessing Game again? Type 'y' or 'n': "
