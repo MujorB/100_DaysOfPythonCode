@@ -54,8 +54,8 @@
 ||||
 |  [**`Day`** :zero::one::one:](Day11_of_100/) | [`BlackJack`](Day11_of_100/black_jack.py) | The very first capstone project, building the classic blackjack game. |
 |   |   ||
-| [**`Day`** :zero::one::two:]()  |  []()|   |
-||||
+| [**`Day`** :zero::one::two:]()  |  [**`Name-Space`**](Day12_of_100/namespace.py)| Scopes in the python programming language   |
+|   | [**`Number Guessing Game`**](Day12_of_100/number_guessing_game.py )| A Number guessing game implementation to solidify all concepts that has been looked at so far. |
 ||||
 ||||
 ||||
