@@ -2,21 +2,29 @@
 
 |   :fire::fire::fire:  `Days`    :fire::fire::fire:            |       `Projects/Tasks`             |                    Descriptions                            |
 | :--------------------------------------- | :------------------------------- | :--------------------------------------------------------- |
-| [**`Day`** :zero::zero::one:](Day1of100)|[`Python Basics`](Day1of100/data_type.py)|       |
-|          | [`Print Functions`](Day1of100/print.py)  |            |
-|           |[`Band Name Generator`](Day1of100/bandname_generator.py)|      |
+| [**`Day`** :zero::zero::one:](Day1of100)|[**`Python Basics`**](Day1of100/data_type.py)|       |
+|          | [**`Print Functions`**](Day1of100/print.py)  |            |
+|   | [Datatypes](Day1of100/data_type.py)  | Python data types (str)object.  |
+|           |[**`Band Name Generator`**](Day1of100/bandname_generator.py)|  Project concepts on the string object concatenation    |
 ||||
-| [**`Day`** :zero::zero::two:](Day2of100/) | [`Python Operations`](Day2of100/operations.py)|         |
-|       | [`Tip Calculator`](Day2of100/tip_calculator.py)|                 |
+| [**`Day`** :zero::zero::two:](Day2of100/) | [**`Python Operations`**](Day2of100/operations.py)| Data types operations (int)object.    |
+|       | [**`Tip Calculator`**](Day2of100/tip_calculator.py)|                 |
 |       |                               |                               |
 ||||
+| [**`Day`** :zero::zero::three:](Day3of100/)  |[**`Project concepts`**](Day3of100/)  | Project Applications of all discussed concepts so far  |
+|     | [**`BMI`**](Day3of100/BMIv2.py) | Body Mass Index calculation program    |
+|   | [**`Leap year problem`**](Day3of100/leapyear_problem.py)  | A program that helps detect if the year is leap or not.  |
+|   | [**`Pizzar order`**](Day3of100/pizzar_order.py)  | A pizza order bill calculation program.  |
+|   | [**`Rollercoaster`**](Day3of100/rollercoaster.py)  | A rollercoaster ticketing program  |
+|   |  [**`Love score calculator`**]() | A compactibility prediction program  |
+|   | [**`Teasure Island`**](Day3of100/treasure_island.py)  | A treasure island adventure game(enjoy).  |
 ||||
-||||
-| [**`Day`** :zero::zero::three:](Day3of100/)  |                        |               |
-|                                          |                        |               |
-||||
-| [**`Day`** :zero::zero::four:](Day4of100/)   |                         |               |
-|                   |                           |                                       |
+| [**`Day`** :zero::zero::four:](Day4of100/)   |    [**`Python Modules`**](Day4of100/my_module.py)| How python modules works   |
+|       |   [**`Random module`**](Day4of100/random_mod.py) | Python random module  |
+|   | [**`Coin Toss`**](Day4of100/coin_toss.py)  | Python random coin flip program  |
+|   | [**`Bills Roulette`**](Day4of100/bills_roulette.py)  | Friendly python games for chossing whose is next to pay the bill at random :smile:  |
+|   | [**`Board play`**](Day4of100/board_play.py)  |  |
+|   | [**`Rock papper scissors`**](Day4of100/rock_papper_scissors.py)|The classic rock papper scissors game implmentation.  |
 ||||
 | [**`Day`** :zero::zero::five:](Day5of100/)  |  [`Python Loop`](Day5of100/loops.py)  |   How the python loop works   |
 |   | [`Counting Even Numbers`](Day5of100/count_evens.py)  |  Counts and computes the sum of all numbers from 1 to 100   |
@@ -56,6 +64,18 @@
 |   |   ||
 | [**`Day`** :zero::one::two:]()  |  [**`Name-Space`**](Day12_of_100/namespace.py)| Scopes in the python programming language   |
 |   | [**`Number Guessing Game`**](Day12_of_100/number_guessing_game.py )| A Number guessing game implementation to solidify all concepts that has been looked at so far. |
+| [**`Day`** :zero::one::three:](Day13_of_100/)  | [**`Debugging`**](Day13_of_100/debugging.py)|  How to debug python codes   |
+|   | [**`Debug odd or even`**](Day13_of_100/debug_odd_or_even.py)  |   |
+|   | [**`Debugging`**](Day13_of_100/debug_leapyear.py) [leapyear](Day3of100/leapyear_problem.py)  ||
+|   | [**`Debugging`**](Day13_of_100/debug_fizzbuzz.py) [fizzbuzz](Day5of100/fizzbuzz.py/) |   |
+||||
+|[**`Day`** :zero::one::four:](Day14_of_100/) |  | |
+||||
+||||
+||||
+||||
+||||
+||||
 ||||
 ||||
 ||||
