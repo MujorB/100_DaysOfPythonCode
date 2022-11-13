@@ -10,7 +10,6 @@ import game_art
 
 
 def main():
-
     def thinking():
         """
         Purpose: Returns guessed number value to be
