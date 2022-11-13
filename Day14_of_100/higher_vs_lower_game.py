@@ -8,11 +8,12 @@ Bug Fix:    Duration: <6 days>; Date Fixed: <Sun 13-11-2022>.
 """
 
 import random
-import game_art, game_data
+import game_art
+import game_data
 
 
 def main():
-    ALL_DATA = (len(game_data.data) - 1)
+    ALL_DATA = len(game_data.data) - 1
 
     first_rand_data = random.randint(0, ALL_DATA)
     compare_data_01 = first_rand_data
@@ -37,8 +38,7 @@ def main():
             player_input = input("Who has more followers? Type 'A' or 'B': ")
             if player_input == "A" or player_input == "B":
                 continue
-            else:
-                print("Please type 'A' or 'B' ")
+            print("Please type 'A' or 'B' ")
         return player_input
 
     def compare_ans():
@@ -65,14 +65,13 @@ def main():
         country_data_02 = game_data.data[compare_data_02]["country"]
         followers_data_02 = game_data.data[compare_data_02]["follower_count"]
 
-
-        compare_A = f"{name_data_01}, a {descriptn_data_01}, from {country_data_01}."
-        against_B = f" {name_data_02}, a {descriptn_data_02}, from {country_data_02}."
+        compare_a = f"{name_data_01}, a {descriptn_data_01}, from {country_data_01}."
+        against_b = f" {name_data_02}, a {descriptn_data_02}, from {country_data_02}."
 
         print(game_art.logo)
-        print(f"Compare A: {compare_A}")
+        print(f"Compare A: {compare_a}")
         print(game_art.vs)
-        print(f"Against B:{against_B} ")
+        print(f"Against B:{against_b} ")
 
         compare_result = compare_ans()
         if "Sorry" not in compare_result:
@@ -93,6 +92,7 @@ def main():
             compare_data_02 %= ALL_DATA
         if continue_game_body == 0:
             break
+
 
 if __name__ == "__main__":
     main()
