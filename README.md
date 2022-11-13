@@ -70,8 +70,7 @@
 |   | [**`Debugging`**](Day13_of_100/debug_leapyear.py) [leapyear](Day3of100/leapyear_problem.py)  ||
 |   | [**`Debugging`**](Day13_of_100/debug_fizzbuzz.py) [fizzbuzz](Day5of100/fizzbuzz.py/) |   |
 ||||
-|[**`Day`** :zero::one::four:](Day14_of_100/) | [**`Higher vs lower`**](Day14_of_100/higher_vs_lower_game.py) | A python terminal game implementation of the [classic higher vs lower web game](http://www.higherlowergame.com/
-) |
+|[**`Day`** :zero::one::four:](Day14_of_100/) | [**`Higher vs lower`**](Day14_of_100/higher_vs_lower_game.py) | A python terminal game implementation of the [classic higher vs lower web game](http://www.higherlowergame.com/) |
 ||||
 ||||
 ||||
