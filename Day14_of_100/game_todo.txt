@@ -1,0 +1,19 @@
+#1 Import game art to print game logo
+ 
+#2 Import game data(comparison01) and print and compare with the next game data(comparison02).
+
+#3 Ask question of comparison.
+    > print the vs game art against comparison01 and comparison02
+    > And prompt the player for the comparison question
+        - game_question = "Who has more followers? Type 'A' or 'B':"
+
+#4 Depending on answer, if correct update player score and increase by one.
+    > print score_won = "You're right! Current score: {current_score}."
+    > And make comparison02 equal to comparison01
+    > Then make comparison02 equal comparison02 minus one.
+
+#5 Repeat until answer(game_question) becomes incorrect.
+    > print score_lose = "Sorry, that's wrong. Final score: {final_score}"
+    > Then endgame.
+
+
