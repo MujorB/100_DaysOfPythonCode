@@ -64,12 +64,14 @@
 |   |   ||
 | [**`Day`** :zero::one::two:]()  |  [**`Name-Space`**](Day12_of_100/namespace.py)| Scopes in the python programming language   |
 |   | [**`Number Guessing Game`**](Day12_of_100/number_guessing_game.py )| A Number guessing game implementation to solidify all concepts that has been looked at so far. |
+||||
 | [**`Day`** :zero::one::three:](Day13_of_100/)  | [**`Debugging`**](Day13_of_100/debugging.py)|  How to debug python codes   |
 |   | [**`Debug odd or even`**](Day13_of_100/debug_odd_or_even.py)  |   |
 |   | [**`Debugging`**](Day13_of_100/debug_leapyear.py) [leapyear](Day3of100/leapyear_problem.py)  ||
 |   | [**`Debugging`**](Day13_of_100/debug_fizzbuzz.py) [fizzbuzz](Day5of100/fizzbuzz.py/) |   |
 ||||
-|[**`Day`** :zero::one::four:](Day14_of_100/) |  | |
+|[**`Day`** :zero::one::four:](Day14_of_100/) | [**`Higher vs lower`**](Day14_of_100/higher_vs_lower_game.py) | A python terminal game implementation of the [classic higher vs lower web game](http://www.higherlowergame.com/
+) |
 ||||
 ||||
 ||||
