@@ -98,7 +98,9 @@
 >   - `pytest` - If python test files are available helps test python codes: `pytest -xv test.py`  
 >   - Installations ` python3 -m pip install black flake8 ipython mypy pylint pytest yapf` includes some other program.  
 > - A web app [ASCII art generator](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20) by patorjk.  
-> - 
+>  
+> - The [turtle module graphics documentattion](https://docs.python.org/3/library/turtle.html)
+> - Python Package Index [pypi](pypi.org)
 
 
 
