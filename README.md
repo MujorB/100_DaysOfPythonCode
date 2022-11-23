@@ -72,9 +72,9 @@
 ||||
 |[**`Day`** :zero::one::four:](Day14_of_100/) | [**`Higher vs lower`**](Day14_of_100/higher_vs_lower_game.py) | A python terminal game implementation of the [classic higher vs lower web game](http://www.higherlowergame.com/) |
 ||||
+| [**`Day`** :zero::one::five:](Day15_of_100/) |  [**`Coffee machine`**](Day15_of_100/coffee_machine.py)  | Programming a coffee machine using python |
 ||||
-||||
-||||
+|   |||
 ||||
 ||||
 ||||
