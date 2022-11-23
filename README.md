@@ -100,7 +100,7 @@
 > - A web app [ASCII art generator](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20) by patorjk.  
 >  
 > - The [turtle module graphics documentattion](https://docs.python.org/3/library/turtle.html)
-> - Python Package Index [pypi](pypi.org)
+> - Python Package Index [pypi](https://pypi.org)
 
 
 
