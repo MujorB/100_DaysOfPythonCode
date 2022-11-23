@@ -1,0 +1,55 @@
+# TODO 1. Prompting user for the type of coffee needed.
+            > Prompt message, coffee_type = " What would you like? (espresso/latte/cappuccino): " **checked**
+            > There should be away of checking and making sure the right coffee_type reply was
+              used and if not re-prompt the user again
+
+# TODO 1b. Re-prompting another user if any coffee drinks has been served or resource insufficiency
+            > This prompt should show every time a drink have been dispensed or
+            when the enjoy_message has been printed on the screen.
+            >
+
+# TODO 2. Listing all the machines resources when the string "report" is entered at the prompt.
+            > e.g. Water: 100ml
+                   Milk: 50ml
+                   Coffee: 76ml
+                   Money: $2.5
+            > Where 'water'  is the "total_remaining_water", in the coffee_machine, 'coffee' the
+            total_remaining_coffee and 'money' all the remaining gained from the coffee sales by the
+            machines
+
+# TODO 2b. Checking resources sufficiency.
+            > Now should incase any other resource in the machine is not enough to process the coffee
+            then it should print "Sorry there is not enough {the_resource}" and end the program.    **checked**
+            > # TODO X. Ending the program.
+            > And if resource is enough for processing move to todo #_TODO_2b.
+
+# TODO 2b. Prompting User's for the amount available to buy a coffee.
+            > Prints "Please insert coins"
+            > Prompts user for quarter_coin_s = "how many quarters?: "
+            > Prompts user for dime_coin_s = "how many dimes?: "
+            > Prompts user for nickel_coin_s = "how many nickels?: "
+            > Prompts user for penny_coin_s = "how many pennies?: "          ** all checked**
+
+# TODO 3. Based on amount of cash given in #_TOD0_2
+            > Calculate the changed needed to be returned based on users
+            cash and the amount the coffee_type is sold for.
+            > if change is more than enough then
+               user_change = "Here is {change} in change." and add the profits to
+               the coffee machine.
+               and else if the change is equal then no need of change
+            > if transaction was successful then update the available coffee machine
+              with the remaining resource.
+            > and tell user to enjoy,
+              enjoy_message = "Here is your {coffee_type} coffee_emoji. Enjoy!"
+            > and if less than then returns
+              user_message = "Sorry that's not enough money. Money refunded."
+
+
+
+# TODO X. Turning off the coffee machine when the secret word 'off' is entered in the prompt.
+            >
+
+
+
+# TODO x. Processing the coins.
+            >
