@@ -2,7 +2,7 @@
 """
 Program:    Higher vs Lower game.
 Author:     Bright Mujor <mujorb@gmail.com>
-Course:     100 days of python code by Angella Yu <day 14>
+Course:     100 days of python code by Angela Yu <day 14>
 Date:       Fri 08-11-2022.
 Bug Fix:    Duration: <6 days>; Date Fixed: <Sun 13-11-2022>.
 """
@@ -13,6 +13,7 @@ import game_data
 
 
 def main():
+    # noinspection PyPep8Naming
     ALL_DATA = len(game_data.data) - 1
 
     first_rand_data = random.randint(0, ALL_DATA)
